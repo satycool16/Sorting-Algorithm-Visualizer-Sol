@@ -12,6 +12,8 @@ Algorithms covered so far:
 | Insertion Sort | insertion_sort |
 | Heap Sort | heap_sort |
 | Merge Sort | merge_sort |
+| Counting Sort | counting_sort |
+| Shell Sort | shell_sort |
 
 # Usage:
 
